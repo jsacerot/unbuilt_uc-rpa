@@ -1,0 +1,5 @@
+1 - Build website static files using the blogdown::build_site() command in R
+2 - Copy files in folder bublic (i.e., ../rpa-website/public) to folder bublic in repository folder (i.e., ../rpa-web01/public)
+3 - Review repository status using git status command in CMD
+4 - Add (git add .), commit (git commit -m "description"), and push (git push origin main) changes
+5 - Verify correctnes of changes in deployed website

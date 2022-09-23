@@ -1,0 +1,9 @@
+
+-Add hyperlnk:
+[my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) 
+
+- Make text bold
+**all**
+
+- Make text appear as code
+`beautifulhugo`

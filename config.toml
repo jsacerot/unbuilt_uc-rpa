@@ -1,0 +1,140 @@
+#baseurl = "https://jsacerot.github.io/ucrpa.github.io/"
+baseurl = "https://rpa.ucr.edu/"
+DefaultContentLanguage = "en"
+title = "UCR PostdocAssoc"
+theme = "beautifulhugo"
+metaDataFormat = "yaml"
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+#pygmentsUseClassic = true
+#pygmentOptions = "linenos=inline"
+#disqusShortname = "XXX"
+googleAnalytics = "UA-141608372-1"
+
+[Params]
+  homeTitle = "UC Riverside Postdoctoral Association"
+  subtitle = "An Association Run by Postdocs for Postdocs"
+  mainSections = ["post","posts"]
+  logo = "img/logo-rpa2.jpg"# Expecting square dimensions
+  favicon = "img/brain.svg" # browser tab icon
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = false
+  comments = true
+  readingTime = true
+  wordCount = false
+  useHLJS = true
+  socialShare = true
+  delayDisqus = true
+  showRelatedPosts = true
+  hideAuthor = true
+#  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
+
+[Author]
+  name = "UCR PostdocAssoc"
+  website = "https://rpa.ucr.edu/"
+  email = "postdoc@ucr.edu"
+  #maillist = "rpa-postdoc"
+  facebook = "UCRPostdocAssoc"
+  #github = "username"
+  #gitlab = "username"
+  #bitbucket = "username"
+  twitter = "UCRPostdocAssoc"
+  #reddit = "username"
+  #linkedin = "username"
+  #xing = "username"
+  #stackoverflow = "users/XXXXXXX/username"
+  #snapchat = "username"
+  instagram = "ucrpostdocassoc"
+  youtube = "channel/UC1XpA3V5gDePnw5BkFOb55A"
+  #soundcloud = "username"
+  #spotify = "username"
+  #bandcamp = "username"
+  #itchio = "username"
+  #vk = "username"
+  #paypal = "username"
+  #telegram = "username"
+  #500px = "username"
+  #codepen = "username"
+  #mastodon = "url"
+  #kaggle = "username"
+  #weibo = "username"
+  #slack = "username"
+  #discord = "invite code (https://discord.gg/XXXXXXX)"
+  #strava = "userid"
+
+[[menu.main]]
+    identifier = "about"
+    name = "About"
+    weight = 1
+    
+[[menu.main]]
+    parent = "about"
+    name = "History & Mission"
+    url = "page/history-mission/"
+    weight = 1
+    
+[[menu.main]]
+    parent = "about"
+    name = "Board members"
+    url = "page/board/"
+    weight = 2
+
+[[menu.main]]
+    identifier = "resources"
+    name = "Resources"
+    weight = 2
+
+[[menu.main]]
+    parent = "resources"
+    name = "UCR quicklinks"
+    url = "page/ucrquicklinks"
+    weight = 1
+
+[[menu.main]]
+    parent = "resources"
+    name = "Housing"
+    url = "page/housing"
+    weight = 2
+    
+[[menu.main]]
+    parent = "resources"
+    identifier = "entertainment"
+    name = "Entertainment"
+    url = "page/entertainment"
+    weight = 3
+
+[[menu.main]]
+    identifier = "events"
+    name = "Events"
+    weight = 3
+    
+[[menu.main]]
+    parent = "events"
+    name = "Calendar"
+    url = "page/calendar"
+    weight = 1
+    
+[[menu.main]]
+    parent = "events"
+    name = "Meetups"
+    url = "page/meetups"
+    weight = 2
+    
+[[menu.main]]
+    parent = "events"
+    name = "Symposium"
+    url = "page/symposium"
+    weight = 3
+
+[[menu.main]]
+    name = "Contact"
+    url = "page/contact"
+    weight = 4
+    
+#[[menu.main]]
+#    name = "Tags"
+#    url = "tags"
+#    weight = 5

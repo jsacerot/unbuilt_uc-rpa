@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>general assembly on UCR PostdocAssoc</title>
+    <link>https://rpa.ucr.edu/tags/general-assembly/</link>
+    <description>Recent content in general assembly on UCR PostdocAssoc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>postdoc@ucr.edu (UCR PostdocAssoc)</managingEditor>
+    <webMaster>postdoc@ucr.edu (UCR PostdocAssoc)</webMaster>
+    <lastBuildDate>Sun, 18 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://rpa.ucr.edu/tags/general-assembly/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>General Assembly</title>
+      <link>https://rpa.ucr.edu/post/2022-09-18-general-assembly/</link>
+      <pubDate>Sun, 18 Sep 2022 00:00:00 +0000</pubDate>
+      <author>postdoc@ucr.edu (UCR PostdocAssoc)</author>
+      <guid>https://rpa.ucr.edu/post/2022-09-18-general-assembly/</guid>
+      <description>The UCR Postdoctoral Association invites all postdoctoral and visiting scholars and project scientists to the first General Assembly of the 2022-2023 term on September 23, 2022, at 11:30 am at the UCR Botanic Gardens conference room. Get to know the new board and the current projects and initiatives and share your ideas to strengthen our community. No registration required!</description>
+    </item>
+    
+  </channel>
+</rss>

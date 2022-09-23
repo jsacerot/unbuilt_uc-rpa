@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on UCR PostdocAssoc</title>
+    <link>https://rpa.ucr.edu/categories/</link>
+    <description>Recent content in Categories on UCR PostdocAssoc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>postdoc@ucr.edu (UCR PostdocAssoc)</managingEditor>
+    <webMaster>postdoc@ucr.edu (UCR PostdocAssoc)</webMaster><atom:link href="https://rpa.ucr.edu/categories/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
