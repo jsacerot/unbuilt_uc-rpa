@@ -46,7 +46,7 @@ Find here a selected list of cities worth visiting that are one to seven hours d
   
   {{< figure src="img/entertainment/cities/Las_Vegas.jpg" 
   link="https://www.visitlasvegas.com/" 
-  caption="Las Vegas | 3 hours"
+  caption="Las Vegas | 4 hours"
   class="no-photoswipe" >}}
   
   {{< figure src="img/entertainment/cities/Phoenix.jpg" 

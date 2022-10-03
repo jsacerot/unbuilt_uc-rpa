@@ -102,7 +102,7 @@ Los Angeles | 1 hour
 Long Beach | 1 hour
 San Diego | 2 hours
 Santa Barbara | 3 hours
-Las Vegas | 3 hours
+Las Vegas | 4 hours
 Phoenix | 5 hours
 San Jose | 6 hours
 San Francisco | 7 hours</description>
@@ -114,9 +114,14 @@ San Francisco | 7 hours</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>postdoc@ucr.edu (UCR PostdocAssoc)</author>
       <guid>https://rpa.ucr.edu/page/entertainment/recreational/</guid>
-      <description>[Stay tuned for updates! Page under construction 🚧]
-Nearby Recreational Areas and National Parks ‎
-Recreatioal Areas Big Bear Lake Perris Reservoir Lake Matthews Lake Elsinore Diamond Valley Lake Salton Sea Beaches&amp;hellip; National Parks San Bernardino National Forest Joshua Tree National Park San Jacinto Mountains National Park Cleveland National Forest Sequoia National Park Grand Canyon National Park Zion National Park Whitewater Preserve </description>
+      <description>Nearby Recreational Areas and State/National Parks Find here a selected list of recreational areas and parks worth visiting that are less than one to seven hours driving from Riverside.
+Lake Perris | &amp;lt; 1 hr
+Lake Elsinore | &amp;lt; 1 hr
+Diamond Valley Lake | 1 hr
+Whitewater Preserve | 1 hr
+Lake Arrowhead | 1 hr
+Big Bear Lake | 1 hr
+Mt San Jacinto State Park | 1 hr</description>
     </item>
     
     <item>
@@ -125,23 +130,22 @@ Recreatioal Areas Big Bear Lake Perris Reservoir Lake Matthews Lake Elsinore Dia
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>postdoc@ucr.edu (UCR PostdocAssoc)</author>
       <guid>https://rpa.ucr.edu/page/entertainment/riverside/</guid>
-      <description>Riverside Being the most populated city in the Inland Empire and Riverside Country, the city offers a lot to locals and visitors.
-‎
+      <description>Riverside Being the most populated city in the Inland Empire and Riverside County, the city of Riverside offers a lot of attractions to locals and visitors.
+Explore Riverside Together
 Downtown
 Farmers Market
 Mission Inn Museum
 Riverside Metropolitan Museum
 Riverside Art Museum
-The Cheech: Chicano Art &amp;amp; Culture UCR Arts
+The Cheech: Chicano Art &amp;amp; Culture Riverside Heritage House
+UCR Arts
 Fox Performing Arts Center
+Municipal Auditorium
 Riverside Main Library
 Mount Robidoux
 Fairmount Park
 Citrus Historical Park
-UCR Botanic Gardens
-The Game Lab
-The Food Lab
-University Village</description>
+UCR Botanic Gardens</description>
     </item>
     
     <item>
@@ -195,8 +199,8 @@ Nearby Recreational Areas</description>
       <author>postdoc@ucr.edu (UCR PostdocAssoc)</author>
       <guid>https://rpa.ucr.edu/page/housing/</guid>
       <description>Housing Find here helpful resources to find housing near UCR from institutional efforts, Facebook groups, and third parties.
-Oban Family Housing
-UCR off-campus listing
+UCR Oban Family Housing
+UCR off-campus Housing
 Affordable Housing
 UCR Housing Off Campus
 UCR Housing and Roomie Search
@@ -212,14 +216,17 @@ Apartments.com</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>postdoc@ucr.edu (UCR PostdocAssoc)</author>
       <guid>https://rpa.ucr.edu/page/ucrquicklinks/</guid>
-      <description>UCR Quicklinks Find here useful UCR resources for the postdoctoral community regarding employment information, health insurance, and more.
+      <description>UCR Quicklinks Find here useful UCR resources for the postdoctoral community regarding employment information, health insurance, fellowship opportunities, and more.
 ‎
 Employment Info
+Postdoc Handbook
 Postdoc Contract
 Visa Info
 Health Insurance
+Violence/Stalking Resources
 Early Childhood Services
 Fellowship Opportunities
+OASIS Innovation Hub
 The Union
 GradSuccess
 UCPath</description>

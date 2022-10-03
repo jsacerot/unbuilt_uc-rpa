@@ -5,7 +5,7 @@ comments: false
 ---
 
 ### UCR Quicklinks
-Find here useful UCR resources  for the postdoctoral community regarding employment information, health insurance, and more.
+Find here useful UCR resources  for the postdoctoral community regarding employment information, health insurance, fellowship opportunities, and more.
 
 ‎
 
@@ -14,6 +14,11 @@ Find here useful UCR resources  for the postdoctoral community regarding employm
   {{< figure src="img/resources/quicklinks/circle_info.png"
   link="https://graduate.ucr.edu/postdoctoral-studies/" 
   caption="Employment Info"
+  class="no-photoswipe" >}}
+  
+  {{< figure src="img/resources/quicklinks/appointment_book.png"
+  link="https://live-ucr-graduate.pantheonsite.io/document/postdoctoral-scholar-handbook" 
+  caption="Postdoc Handbook"
   class="no-photoswipe" >}}
   
   {{< figure src="img/resources/quicklinks/contract_signature.png"
@@ -31,6 +36,11 @@ Find here useful UCR resources  for the postdoctoral community regarding employm
   caption="Health Insurance" 
   class="no-photoswipe">}}
   
+  {{< figure src="img/resources/quicklinks/shield.png" 
+  link="https://help.ucr.edu/relationship-violence-or-stalking-resources-academic-employees" 
+  caption="Violence/Stalking Resources" 
+  class="no-photoswipe">}}
+  
   {{< figure src="img/resources/quicklinks/baby_care.png" 
   link="https://ecs.ucr.edu/" 
   caption="Early Childhood Services"
@@ -38,6 +48,11 @@ Find here useful UCR resources  for the postdoctoral community regarding employm
 
   {{< figure src="img/resources/quicklinks/trophy.png" 
   link="https://academicpersonnel.ucr.edu/presidents-postdoctoral-fellowship-program"   caption="Fellowship Opportunities"
+  class="no-photoswipe" >}}
+  
+  {{< figure src="img/resources/quicklinks/creativity.png" 
+  link="https://oasis.ucr.edu/"
+  caption="OASIS Innovation Hub"
   class="no-photoswipe" >}}
 
   {{< figure src="img/resources/quicklinks/teamwork.png" 

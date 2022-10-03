@@ -11,12 +11,12 @@ Find here helpful resources to find housing near UCR from institutional efforts,
   
   {{< figure src="img/resources/housing/UCR.jpg" 
   link="https://housing.ucr.edu/ucr-housing-options/family-housing" 
-  caption="Oban Family Housing"
+  caption="UCR Oban Family Housing"
   class="no-photoswipe" >}}
 
   {{< figure src="img/resources/housing/UCR.jpg" 
   link="https://housing.ucr.edu/help-desk/off-campus-housing/" 
-  caption="UCR off-campus listing"
+  caption="UCR off-campus Housing"
   class="no-photoswipe" >}}
   
   {{< figure src="img/resources/housing/Affordable_Housing.jpg" 

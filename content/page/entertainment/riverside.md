@@ -5,11 +5,14 @@ comments: false
 ---
 
 ### Riverside
-Being the most populated city in the Inland Empire and Riverside Country, the city offers a lot to locals and visitors.
-
-‎
+Being the most populated city in the Inland Empire and Riverside County, the city of Riverside offers a lot of attractions to locals and visitors.
 
 {{< gallery caption-effect="none" hover-effect="shrink" >}}
+  
+  {{< figure src="img/entertainment/riverside/Explore_Riverside.jpg" 
+  link="https://exploreriversidetogether.com/" 
+  caption="Explore Riverside Together"
+  class="no-photoswipe" >}}
   
   {{< figure src="img/entertainment/riverside/Downtown.webp" 
   link="https://www.riversidedowntown.org/" 
@@ -41,6 +44,11 @@ Being the most populated city in the Inland Empire and Riverside Country, the ci
   caption="The Cheech: Chicano Art & Culture "
   class="no-photoswipe" >}}
 
+  {{< figure src="img/entertainment/riverside/Heritage_House.jpg" 
+  link="https://www.riversideca.gov/museum/heritagehouse/" 
+  caption="Riverside Heritage House"
+  class="no-photoswipe" >}}
+  
   {{< figure src="img/entertainment/riverside/UCR_Arts.jpg" 
   link="https://ucrarts.ucr.edu/" 
   caption="UCR Arts"
@@ -49,6 +57,11 @@ Being the most populated city in the Inland Empire and Riverside Country, the ci
   {{< figure src="img/entertainment/riverside/Fox_PAC.webp" 
   link="https://www.livenation.com/venue/KovZpZAEA6lA/fox-performing-arts-center-events" 
   caption="Fox Performing Arts Center"
+  class="no-photoswipe" >}}
+  
+    {{< figure src="img/entertainment/riverside/Municipal_Auditorium.jpg" 
+  link="https://www.livenation.com/venue/KovZpZAEA6FA/riverside-municipal-auditorium-events/" 
+  caption="Municipal Auditorium"
   class="no-photoswipe" >}}
 
   {{< figure src="img/entertainment/riverside/Main_Library.jpg" 
@@ -90,5 +103,10 @@ Being the most populated city in the Inland Empire and Riverside Country, the ci
   link="https://www.universityvillageriverside.com/" 
   caption="University Village"
   class="no-photoswipe" >}}
-
+  
+  {{< figure src="img/entertainment/riverside/Riverside_Plaza.webp" 
+  link="https://shopriversideplaza.com/" 
+  caption="Riverside Plaza"
+  class="no-photoswipe" >}}
+  
 {{< /gallery >}}
