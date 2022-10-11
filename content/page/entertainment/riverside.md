@@ -69,26 +69,36 @@ Being the most populated city in the Inland Empire and Riverside County, the cit
   caption="Riverside Main Library"
   class="no-photoswipe" >}}
   
+  {{< figure src="img/entertainment/riverside/Sycamore_Canyon_Park.jpg" 
+  link="https://www.riversideca.gov/museum/sycamore-canyon.asp" 
+  caption="Sycamore Canyon Wilderness Park"
+  class="no-photoswipe" >}}
+  
   {{< figure src="img/entertainment/riverside/Mount_Robidoux.jpg" 
   link="https://www.riversideca.gov/park_rec/facilities-parks/mt-rubidoux/" 
   caption="Mount Robidoux"
   class="no-photoswipe" >}}
   
-  {{< figure src="img/entertainment/riverside/Fairmount_Park.jpg" 
-  link="https://www.facebook.com/Fairmount-Park-316038515080320/" 
-  caption="Fairmount Park"
-  class="no-photoswipe" >}}
-  
   {{< figure src="img/entertainment/riverside/Citrus_Park.jpg" 
   link="http://www.parks.ca.gov/?page_id=649/" 
-  caption="Citrus Historical Park"
+  caption="CA Citrus State Historical Park"
   class="no-photoswipe" >}}
   
   {{< figure src="img/posts/UCR-BG2.jpg" 
   link="https://gardens.ucr.edu/" 
   caption="UCR Botanic Gardens"
   class="no-photoswipe" >}}
+  
+  {{< figure src="img/entertainment/riverside/Fairmount_Park.jpg" 
+  link="https://www.facebook.com/Fairmount-Park-316038515080320/" 
+  caption="Fairmount Park"
+  class="no-photoswipe" >}}
 
+  {{< figure src="img/entertainment/riverside/University_Village.jpg" 
+  link="https://www.universityvillageriverside.com/" 
+  caption="University Village"
+  class="no-photoswipe" >}}
+  
   {{< figure src="img/entertainment/riverside/Game_Lab.webp" 
   link="https://www.riversidegamelab.com/" 
   caption="The Game Lab"
@@ -97,11 +107,6 @@ Being the most populated city in the Inland Empire and Riverside County, the cit
   {{< figure src="img/entertainment/riverside/Food_Lab.jpg" 
   link="https://www.riversidefoodlab.com/" 
   caption="The Food Lab"
-  class="no-photoswipe" >}}
-  
-  {{< figure src="img/entertainment/riverside/University_Village.jpg" 
-  link="https://www.universityvillageriverside.com/" 
-  caption="University Village"
   class="no-photoswipe" >}}
   
   {{< figure src="img/entertainment/riverside/Riverside_Plaza.webp" 

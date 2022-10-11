@@ -35,7 +35,7 @@ Find here a selected list of cities worth visiting that are one to seven hours d
   class="no-photoswipe" >}}
   
   {{< figure src="img/entertainment/cities/San_Diego.jpg" 
-  link="https://www.sandiego.or" 
+  link="https://www.sandiego.org" 
   caption="San Diego | 2 hours"
   class="no-photoswipe" >}}
   
