@@ -5,7 +5,7 @@ comments: false
 ---
 
 # Housing
-Find here helpful resources to find housing near UCR from institutional efforts, Facebook groups, and third parties.
+Find here helpful resources to find housing near UCR from institutional efforts, Facebook groups, and third parties. Start with the [RPA housing listing](https://docs.google.com/spreadsheets/d/1zymVpyV7jdE-BbWi6tf981jcesifpl6vfbThvTYZLQ0/edit?usp=sharing) before looking at the remaining alternatives.
 
 {{< gallery caption-effect="none" hover-effect="shrink" >}}
   
