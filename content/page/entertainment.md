@@ -14,12 +14,12 @@ Find here information about attractions to visit in Riverside and its surroundin
   caption="Riverside Attractions"
   class="no-photoswipe" >}}
   
-  {{< figure src="img/entertainment/cities2.jpg" 
+  {{< figure src="img/entertainment/Cities.jpg" 
   link="cities" 
   caption="Nearby Cities"
   class="no-photoswipe" >}}
 
-  {{< figure src="img/entertainment/recreational2.jpg" 
+  {{< figure src="img/entertainment/Recreational.jpg" 
   link="recreational" 
   caption="Nearby Recreational Areas"
   class="no-photoswipe" >}}
