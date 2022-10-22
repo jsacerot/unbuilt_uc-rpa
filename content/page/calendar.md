@@ -6,8 +6,6 @@ comments: false
 
 Find here academic and non-academic events relevant for the postdoctoral community. All UCR affiliates are welcome to participate too.
 
-‎
-
 {{< rawhtml >}}
 
   <iframe 

@@ -130,9 +130,14 @@ googleAnalytics = "UA-141608372-1"
     weight = 3
 
 [[menu.main]]
+    name = "Donate"
+    url = "page/donate"
+    weight = 4
+
+[[menu.main]]
     name = "Contact"
     url = "page/contact"
-    weight = 4
+    weight = 5
     
 #[[menu.main]]
 #    name = "Tags"
