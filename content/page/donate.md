@@ -10,6 +10,6 @@ To best serve the postdoctoral community members at UCR, which hosts ~250 postdo
 - Credit card through {{< rawhtml >}} <button type="button" onclick="location.href='https://myadv.ucr.edu/CHASS/postdoc';">UCR Giving</button> {{< /rawhtml >}}
 - Check payable to **UCR Foundation** with **200781 - RIVERSIDE POSTDOCTORAL ASSOCIATION** in the memo line ![Example](/img/paycheck.jpg)
 
-All donations go to the UC Riverside Foundation — Non-profit 501(c)(3). We can provide a gift receipt.
+All donations go to the UC Riverside Foundation —Non-profit 501(c)(3)— and we can provide a gift receipt.
 
 **Thank you for your support!**

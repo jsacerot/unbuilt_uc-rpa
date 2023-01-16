@@ -23,7 +23,7 @@ googleAnalytics = "UA-141608372-1"
   commit = false
   rss = false
   comments = true
-  readingTime = true
+  readingTime = false
   wordCount = false
   useHLJS = true
   socialShare = true
@@ -112,16 +112,22 @@ googleAnalytics = "UA-141608372-1"
     weight = 3
     
 [[menu.main]]
+    parent = "resources"
+    name = "Funding"
+    url = "page/funding"
+    weight = 4
+    
+[[menu.main]]
     parent = "events"
     name = "Calendar"
     url = "page/calendar"
     weight = 1
     
-[[menu.main]]
-    parent = "events"
-    name = "Meetups"
-    url = "page/meetups"
-    weight = 2
+#[[menu.main]]
+#    parent = "events"
+#    name = "Meetups"
+#    url = "page/meetups"
+#    weight = 2
     
 [[menu.main]]
     parent = "events"

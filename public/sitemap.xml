@@ -3,8 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://rpa.ucr.edu/</loc>
-    <lastmod>2022-10-10T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url><url>
+    <loc>https://rpa.ucr.edu/post/2022-10-27-writing-workshops/</loc>
+    <lastmod>2022-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rpa.ucr.edu/tags/cover-letter/</loc>
+    <lastmod>2022-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rpa.ucr.edu/tags/cv/</loc>
+    <lastmod>2022-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rpa.ucr.edu/tags/diversity-statement/</loc>
+    <lastmod>2022-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rpa.ucr.edu/tags/job-application/</loc>
+    <lastmod>2022-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rpa.ucr.edu/post/</loc>
+    <lastmod>2022-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rpa.ucr.edu/tags/</loc>
+    <lastmod>2022-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rpa.ucr.edu/tags/teaching-statement/</loc>
+    <lastmod>2022-10-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rpa.ucr.edu/tags/writing/</loc>
+    <lastmod>2022-10-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rpa.ucr.edu/tags/career-development/</loc>
     <lastmod>2022-10-10T00:00:00+00:00</lastmod>
@@ -12,16 +39,10 @@
     <loc>https://rpa.ucr.edu/tags/ethics/</loc>
     <lastmod>2022-10-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rpa.ucr.edu/post/</loc>
-    <lastmod>2022-10-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://rpa.ucr.edu/tags/research/</loc>
     <lastmod>2022-10-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rpa.ucr.edu/post/2022-10-10-research-integrity-series/</loc>
-    <lastmod>2022-10-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rpa.ucr.edu/tags/</loc>
     <lastmod>2022-10-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rpa.ucr.edu/tags/general-assembly/</loc>
@@ -45,20 +66,8 @@
     <loc>https://rpa.ucr.edu/tags/tour/</loc>
     <lastmod>2022-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rpa.ucr.edu/tags/cover-letter/</loc>
-    <lastmod>2021-12-14T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://rpa.ucr.edu/post/2021-12-06-writing-workshop-cl-rs/</loc>
     <lastmod>2021-12-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rpa.ucr.edu/tags/job-application/</loc>
-    <lastmod>2021-12-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rpa.ucr.edu/tags/writing/</loc>
-    <lastmod>2021-12-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rpa.ucr.edu/tags/diversity-statement/</loc>
-    <lastmod>2021-12-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rpa.ucr.edu/post/2021-12-06-writing-workshop-dei/</loc>
     <lastmod>2021-12-06T00:00:00+00:00</lastmod>
@@ -88,6 +97,8 @@
     <loc>https://rpa.ucr.edu/page/symposium/</loc>
   </url><url>
     <loc>https://rpa.ucr.edu/page/entertainment/</loc>
+  </url><url>
+    <loc>https://rpa.ucr.edu/page/funding/</loc>
   </url><url>
     <loc>https://rpa.ucr.edu/page/housing/</loc>
   </url><url>
