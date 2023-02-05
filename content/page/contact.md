@@ -7,7 +7,7 @@ comments: false
 #form_id: mnqrjlrj
 ---
 
-**Do not forget to suscribe to our 📧 [mail list](https://lists.ucr.edu/mailman/listinfo/rpa-postdoc).**
+**Do not forget to suscribe to our 📧 [mailing list](https://lists.ucr.edu/mailman/listinfo/rpa-postdoc).**
 
 {{< rawhtml >}}
 

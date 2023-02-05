@@ -3,8 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://rpa.ucr.edu/</loc>
-    <lastmod>2022-10-27T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url><url>
+    <loc>https://rpa.ucr.edu/tags/early-career/</loc>
+    <lastmod>2023-02-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rpa.ucr.edu/post/2023-02-04-symposium-registration/</loc>
+    <lastmod>2023-02-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rpa.ucr.edu/post/</loc>
+    <lastmod>2023-02-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rpa.ucr.edu/tags/registration/</loc>
+    <lastmod>2023-02-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rpa.ucr.edu/tags/symposium/</loc>
+    <lastmod>2023-02-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rpa.ucr.edu/tags/</loc>
+    <lastmod>2023-02-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rpa.ucr.edu/post/2022-10-27-writing-workshops/</loc>
     <lastmod>2022-10-27T00:00:00+00:00</lastmod>
@@ -19,12 +37,6 @@
     <lastmod>2022-10-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rpa.ucr.edu/tags/job-application/</loc>
-    <lastmod>2022-10-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rpa.ucr.edu/post/</loc>
-    <lastmod>2022-10-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rpa.ucr.edu/tags/</loc>
     <lastmod>2022-10-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rpa.ucr.edu/tags/teaching-statement/</loc>
@@ -82,6 +94,8 @@
   </url><url>
     <loc>https://rpa.ucr.edu/page/donate/</loc>
   </url><url>
+    <loc>https://rpa.ucr.edu/page/symposium/</loc>
+  </url><url>
     <loc>https://rpa.ucr.edu/page/entertainment/cities/</loc>
   </url><url>
     <loc>https://rpa.ucr.edu/page/entertainment/recreational/</loc>
@@ -93,8 +107,6 @@
     <loc>https://rpa.ucr.edu/page/meetups/</loc>
   </url><url>
     <loc>https://rpa.ucr.edu/page/</loc>
-  </url><url>
-    <loc>https://rpa.ucr.edu/page/symposium/</loc>
   </url><url>
     <loc>https://rpa.ucr.edu/page/entertainment/</loc>
   </url><url>

@@ -7,7 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>postdoc@ucr.edu (UCR PostdocAssoc)</managingEditor>
     <webMaster>postdoc@ucr.edu (UCR PostdocAssoc)</webMaster>
-    <lastBuildDate>Thu, 27 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://rpa.ucr.edu/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://rpa.ucr.edu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open Registration!</title>
+      <link>https://rpa.ucr.edu/post/2023-02-04-symposium-registration/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      <author>postdoc@ucr.edu (UCR PostdocAssoc)</author>
+      <guid>https://rpa.ucr.edu/post/2023-02-04-symposium-registration/</guid>
+      <description>&lt;p&gt;The RPA and the Institute for Integrative Genome Biology (IIGB) invite the postdoc community (i.e., postdoctoral/visiting scholars and project scientists) and graduate students to attend and &lt;strong&gt;submit an abstract for the 2023 Early Career Scientist Symposium&lt;/strong&gt;, scheduled to take place on &lt;strong&gt;Friday, May 26th, 2023&lt;/strong&gt;, at the Genomics Building on the UCR Campus in Riverside, CA. The Evaluation Committee will select the &lt;em&gt;&lt;strong&gt;eight most relevant postdoc abstracts for oral presentations&lt;/strong&gt;&lt;/em&gt; (15-min talk + 5-min Q&amp;amp;A). The &lt;em&gt;&lt;strong&gt;poster session is open to all&lt;/strong&gt;&lt;/em&gt; graduate students, postdoctoral/visiting scholars, and project scientists.&lt;/p&gt;
+&lt;p&gt;Postdoc oral presentations will provide financial support for research in the amount of &lt;strong&gt;$500&lt;/strong&gt; for the best presentation, and &lt;strong&gt;$300&lt;/strong&gt; for the second- and &lt;strong&gt;$200&lt;/strong&gt; for the third-place winners. These awards will be transferred to the winner&amp;rsquo;s department for research-related expenses, including conference travel. In addition, three &lt;strong&gt;$75 gift cards&lt;/strong&gt; will be given as awards for the best poster presentations.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Click on &lt;a href=&#34;https://forms.gle/V8qDzrUGxh6eyS5m8&#34; target=&#34;_blank&#34;&gt;this link&lt;/a&gt;
+ for registration and abstract submission&lt;/strong&gt;. Lunch will be provided for speakers and registered attendees. Kindly note that pre-registration is mandatory.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Career Development Workshops</title>
       <link>https://rpa.ucr.edu/post/2022-10-27-writing-workshops/</link>
@@ -109,7 +121,7 @@ Gardens</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>postdoc@ucr.edu (UCR PostdocAssoc)</author>
       <guid>https://rpa.ucr.edu/page/contact/</guid>
-      <description>Do not forget to suscribe to our 📧 mail list.
+      <description>Do not forget to suscribe to our 📧 mailing list.
 Powered by Formspree</description>
     </item>
     
@@ -120,6 +132,17 @@ Powered by Formspree</description>
       <author>postdoc@ucr.edu (UCR PostdocAssoc)</author>
       <guid>https://rpa.ucr.edu/page/donate/</guid>
       <description>To best serve the postdoctoral community members at UCR, which hosts ~250 postdoctoral scholars, ~60 visiting scholars, and ~100 project scientists, we encourage each UCR department to donate an annual contribution of $30 per affiliated member. This donation will go towards professional networking events and a yearly symposium to showcase and celebrate the research Postdocs at UCR are doing. Please consider donating to our FAU: A01383-19900-43-DEPDA. Please email postdoc@ucr.eduto let us know when you have made the donation and the amount.</description>
+    </item>
+    
+    <item>
+      <title>Early Career Scientist Symposium</title>
+      <link>https://rpa.ucr.edu/page/symposium/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>postdoc@ucr.edu (UCR PostdocAssoc)</author>
+      <guid>https://rpa.ucr.edu/page/symposium/</guid>
+      <description>The UC Riverside Postdoctoral Association holds an annual symposium featuring oral and poster presentations and invited speakers. Registration is free and open to all:
+🗣️ Oral presentations are open to postdoctoral/visiting scholars and project scientists. Each speaker will have 15 minutes to present, with 5 minutes for questions.
+🪧 Poster presentations are open to postdoctoral/visiting scholars, project scientists, and graduate students. Posters will be presented as 3-minute flash talks and grouped by topic with time for questions afterwards.</description>
     </item>
     
     <item>
@@ -198,18 +221,6 @@ CA Citrus State Historical Park</description>
       <guid>https://rpa.ucr.edu/page/meetups/</guid>
       <description>[Stay tuned for updates! Page under construction 🚧]
 Want to meet others who love the same activities you love and build a community? Then you are in the right place! Meetups is a UC Riverside Postdoctoral Association initiative that fosters leisure group activities among the UCR community. Create and join group events on specific activities such as sports, road trips, outdoor activities, museum visits, movie nights, social gatherings, among others, and let people with similar interests get to know them.</description>
-    </item>
-    
-    <item>
-      <title>Postdoctoral Symposium</title>
-      <link>https://rpa.ucr.edu/page/symposium/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>postdoc@ucr.edu (UCR PostdocAssoc)</author>
-      <guid>https://rpa.ucr.edu/page/symposium/</guid>
-      <description>[Stay tuned for updates! 2023 Symposium Info will be available soon 🚧]
-The UC Riverside Postdoctoral Association holds an annual symposium featuring oral and poster presentations and invited speakers. Registration is free and open to all.
-🗣️ Contributed talks are open to postdoctoral and visiting scholars and project scientists. Each speaker will have 10 minutes to present with 2 minutes for questions.
-🪧 Posters are open to postdoctoral and visiting scholars, project scientists, and graduate students.</description>
     </item>
     
     <item>
