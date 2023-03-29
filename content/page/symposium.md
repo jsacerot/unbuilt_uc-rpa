@@ -3,14 +3,14 @@ title: Early Career Scientist Symposium
 subtitle: An Association Run by Postdocs for Postdocs
 comments: false
 ---
-___
+
 ### General Information
 ___
 The UC Riverside Postdoctoral Association (RPA) holds an annual Early Career Scientist (ECS) Symposium featuring oral and poster presentations and invited speakers.
 
 The **2023 ECS Symposium** is jointly organized by the RPA and the Institute for Integrative Genome Biology (IIGB). The event will take place on **Friday, June 9th, 2023**, at the  Genomics Building on the UCR Campus in Riverside, CA.
 
-___
+
 ### Eligibility, Selection, and Awards
 ___
 The RPA and the Institute for Integrative Genome Biology (IIGB) invite the postdoc community (i.e., postdoctoral/visiting scholars and project scientists) and graduate students to actively participate in the upcoming ECS Symposium:
@@ -22,12 +22,13 @@ The RPA and the Institute for Integrative Genome Biology (IIGB) invite the postd
 - 🏆 **Research awards** will be presented to the best oral and poster presentations: **$500**, **$300**, and **$200** (transferred to the winner's department for research-related expenses) for best three oral presentations, and **$75 gift card** for best three poster presentations.
 
 *Consult abstract, talk, and poster guidelines* **[here](/page/symposium-guidelines)**.
-___
+
+
 ### Registration and Call for Abstracts
 ___
 Registration and abstract submission is **free and available until March 31, 2023**, through **[this form](https://forms.gle/V8qDzrUGxh6eyS5m8)**. Lunch will be provided for speakers and registered attendees, so pre-registration is mandatory.
 
-___
+
 ### Why to Participate
 ___
 The ESC Symposium is a great opportunity for professional development and networking within the UCR community. The goals of this event are for you to:
@@ -39,7 +40,7 @@ The ESC Symposium is a great opportunity for professional development and networ
 
 The symposium provides a unique opportunity to get more out of your UCR experience than spending days and nights in the lab, field, or office.
 
-___
+
 ### Timeline
 ___
 - *Friday, March 31, 2023* : Abstract submission deadline for oral and poster presentations
@@ -49,7 +50,7 @@ ___
 ___
 📣 Advertising for this event is by social media and word of mouth, so please pass this solicitation along to any interested parties.
 
-___
+
 ### Agenda
 ___
 

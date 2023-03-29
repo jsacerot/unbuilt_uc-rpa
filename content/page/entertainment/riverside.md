@@ -80,7 +80,7 @@ Being the most populated city in the Inland Empire and Riverside County, the cit
   class="no-photoswipe" >}}
   
   {{< figure src="img/entertainment/riverside/Citrus_Park.jpg" 
-  link="http://www.parks.ca.gov/?page_id=649/" 
+  link="https://www.parks.ca.gov/?page_id=649" 
   caption="CA Citrus State Historical Park"
   class="no-photoswipe" >}}
   

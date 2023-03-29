@@ -8,6 +8,11 @@ comments: false
 Find here useful UCR resources  for the postdoctoral community regarding employment information, health insurance, fellowship opportunities, and more.
 
 {{< gallery caption-effect="none" hover-effect="shrink" >}}
+
+  {{< figure src="img/resources/quicklinks/passport.svg" 
+  link="https://international.ucr.edu/scholars/" 
+  caption="Visa Info"
+  class="no-photoswipe" >}}
   
   {{< figure src="img/resources/quicklinks/circle_info.svg"
   link="https://graduate.ucr.edu/postdoctoral-studies/" 
@@ -21,12 +26,17 @@ Find here useful UCR resources  for the postdoctoral community regarding employm
   
   {{< figure src="img/resources/quicklinks/contract_signature.svg"
   link="https://uaw5810.org/postdoc-contract/" 
-  caption="Postdoc Contract"
+  caption="Postdoctoral Scholar Contract"
   class="no-photoswipe" >}}
   
-  {{< figure src="img/resources/quicklinks/passport.svg" 
-  link="https://international.ucr.edu/scholars/" 
-  caption="Visa Info"
+  {{< figure src="img/resources/quicklinks/contract_signature.svg"
+  link="https://uaw5810.org/ar-contract-2019/" 
+  caption="Academic Researcher Contract"
+  class="no-photoswipe" >}}
+
+  {{< figure src="img/resources/quicklinks/teamwork.svg" 
+  link="https://uaw5810.org/" 
+  caption="The Union"
   class="no-photoswipe" >}}
   
   {{< figure src="img/resources/quicklinks/suitcase_medical.svg" 
@@ -34,16 +44,16 @@ Find here useful UCR resources  for the postdoctoral community regarding employm
   caption="Health Insurance" 
   class="no-photoswipe">}}
   
-  {{< figure src="img/resources/quicklinks/shield.svg" 
-  link="https://help.ucr.edu/relationship-violence-or-stalking-resources-academic-employees" 
-  caption="Violence/Stalking Resources" 
-  class="no-photoswipe">}}
-  
   {{< figure src="img/resources/quicklinks/baby_care.svg" 
   link="https://ecs.ucr.edu/" 
   caption="Early Childhood Services"
   class="no-photoswipe" >}}
 
+  {{< figure src="img/resources/quicklinks/shield.svg" 
+  link="https://help.ucr.edu/relationship-violence-or-stalking-resources-academic-employees" 
+  caption="Violence/Stalking Resources" 
+  class="no-photoswipe">}}
+  
   {{< figure src="img/resources/quicklinks/trophy.svg" 
   link="https://academicpersonnel.ucr.edu/presidents-postdoctoral-fellowship-program"   caption="Fellowship Opportunities"
   class="no-photoswipe" >}}
@@ -53,18 +63,13 @@ Find here useful UCR resources  for the postdoctoral community regarding employm
   caption="OASIS Innovation Hub"
   class="no-photoswipe" >}}
 
-  {{< figure src="img/resources/quicklinks/teamwork.svg" 
-  link="https://uaw5810.org/" 
-  caption="The Union"
-  class="no-photoswipe" >}}
-  
   {{< figure src="img/resources/quicklinks/mortarboard.svg" 
   link="https://graduate.ucr.edu/gradsuccess/" 
   caption="GradSuccess"
   class="no-photoswipe" >}}
   
   {{< figure src="img/resources/quicklinks/city_hall.svg" 
-  link="http://internationalscholars.ucr.edu/about/contact.html" 
+  link="https://ucpath.ucr.edu/" 
   caption="UCPath"
   class="no-photoswipe" >}}
   

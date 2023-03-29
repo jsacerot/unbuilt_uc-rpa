@@ -11,4 +11,6 @@ Postdoc oral presentations will provide financial support for research in the am
 
 **Click on [this link](https://forms.gle/V8qDzrUGxh6eyS5m8) for registration and abstract submission (Deadline: March 31, 2023)**. Lunch will be provided for speakers and registered attendees. Kindly note that pre-registration is mandatory.
 
+![flier](/img/posts/ECS_symposium_2023.png)
+
 <!--more-->
