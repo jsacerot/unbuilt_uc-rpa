@@ -7,11 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>postdoc@ucr.edu (UCR PostdocAssoc)</managingEditor>
     <webMaster>postdoc@ucr.edu (UCR PostdocAssoc)</webMaster>
-    <lastBuildDate>Sat, 04 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://rpa.ucr.edu/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://rpa.ucr.edu/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>early career</title>
       <link>https://rpa.ucr.edu/tags/early-career/</link>
-      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
       <author>postdoc@ucr.edu (UCR PostdocAssoc)</author>
       <guid>https://rpa.ucr.edu/tags/early-career/</guid>
       <description></description>
@@ -20,7 +20,7 @@
     <item>
       <title>registration</title>
       <link>https://rpa.ucr.edu/tags/registration/</link>
-      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
       <author>postdoc@ucr.edu (UCR PostdocAssoc)</author>
       <guid>https://rpa.ucr.edu/tags/registration/</guid>
       <description></description>
@@ -29,9 +29,36 @@
     <item>
       <title>symposium</title>
       <link>https://rpa.ucr.edu/tags/symposium/</link>
-      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
       <author>postdoc@ucr.edu (UCR PostdocAssoc)</author>
       <guid>https://rpa.ucr.edu/tags/symposium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fair</title>
+      <link>https://rpa.ucr.edu/tags/fair/</link>
+      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
+      <author>postdoc@ucr.edu (UCR PostdocAssoc)</author>
+      <guid>https://rpa.ucr.edu/tags/fair/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mental wellness</title>
+      <link>https://rpa.ucr.edu/tags/mental-wellness/</link>
+      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
+      <author>postdoc@ucr.edu (UCR PostdocAssoc)</author>
+      <guid>https://rpa.ucr.edu/tags/mental-wellness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stress relief</title>
+      <link>https://rpa.ucr.edu/tags/stress-relief/</link>
+      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
+      <author>postdoc@ucr.edu (UCR PostdocAssoc)</author>
+      <guid>https://rpa.ucr.edu/tags/stress-relief/</guid>
       <description></description>
     </item>
     

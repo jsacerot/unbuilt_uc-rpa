@@ -20,6 +20,7 @@ comments: false
 - Your talk should be understandable and exciting to the general academic audience.
 
 ### Guidelines for Poster Presentations
+- The maximum poster dimensions are 6 feet wide by 4 feet high with a minimum 1-inch border.
 - Presenting a poster is a great way to exchange ideas and meaningful discussion.
 - The poster session offers an opportunity to display materials and engage in open-ended, individualized, and informal discussions with interested parties.
 - Prepare the poster for a general audience and posters will be judged according to clarity and interest.

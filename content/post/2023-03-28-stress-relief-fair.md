@@ -1,7 +1,7 @@
 ---
 title: Stress Relief Fair
 subtitle: Improving mental wellness
-date: 2023-04-25
+date: 2023-03-28
 tags: ["mental wellness", "stress relief", "fair"]
 ---
 
