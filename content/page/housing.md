@@ -5,7 +5,7 @@ comments: false
 ---
 
 # Housing
-Find here helpful resources to find housing near UCR from institutional efforts, Facebook groups, and third parties. Start with the [RPA housing listing](https://docs.google.com/spreadsheets/d/1zymVpyV7jdE-BbWi6tf981jcesifpl6vfbThvTYZLQ0/edit?usp=sharing) before looking at the remaining alternatives.
+Find here helpful resources to find housing near UCR from institutional efforts, Facebook groups, and third parties (no commercial relationship). Start with the [RPA housing listing](https://docs.google.com/spreadsheets/d/1zymVpyV7jdE-BbWi6tf981jcesifpl6vfbThvTYZLQ0/edit?usp=sharing) before looking at the remaining alternatives.
 
 {{< gallery caption-effect="none" hover-effect="shrink" >}}
   
@@ -52,6 +52,16 @@ Find here helpful resources to find housing near UCR from institutional efforts,
   {{< figure src="img/resources/housing/Apartments.webp" 
   link="https://www.apartments.com/riverside-ca/" 
   caption="Apartments.com"
+  class="no-photoswipe" >}}
+  
+  {{< figure src="img/resources/housing/Rentcafe.jpeg" 
+  link="https://www.rentcafe.com/" 
+  caption="Rentcafe.com"
+  class="no-photoswipe" >}}
+  
+  {{< figure src="img/resources/housing/Trulia.png" 
+  link="https://www.trulia.com/for_rent/Riverside,CA/" 
+  caption="Trulia.com"
   class="no-photoswipe" >}}
 
 {{< /gallery >}}

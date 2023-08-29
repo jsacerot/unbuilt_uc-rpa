@@ -5,9 +5,20 @@ comments: false
 ---
 
 ## Current Board
+### 2023-2024
+- President : Angela Chen
+- Vice President : Luis De Luna Valdez
+- Secretary : Francisco J. Guevara Pantoja
+- Treasurer : Lina Aguirre Rojas
+- Social Chair : Proma Basu
+- Communications Director : Rebeca Hernandez Gutierrez
+- Symposium Director : Parminder Kaur
+- Graphic/Web Designer: Juan S. Acero Triana
+
+## Former Boards
 ### 2022-2023
 - President : Angela Chen
-- Vice president : Nicole Dennis
+- Vice President : Nicole Dennis
 - Secretary : David Fronk
 - Treasurer : Julio C. Pachon Maldonado
 - Social Chair : Luis De Luna Valdez
@@ -15,16 +26,15 @@ comments: false
 - Symposium Director : Lin Chen
 - Graphic/Web Designer: Juan S. Acero Triana
 
-## Former Boards
 ### 2021-2022
 - President : Keely Brown
-- Vice president : Kerianne Wilson
+- Vice President : Kerianne Wilson
 - Secretary : Nadje Najar
 - Treasurer : Yas Bolourian
 
 ### 2020-2021
 - President : Evelyn Vazquez
-- Vice president : Lewis Hun
+- Vice President : Lewis Hun
 - Secretary : Kerianne Wilson
 - Treasurer : Ying Sun
 - Social Chair : Francesco Pancaldi
@@ -34,7 +44,7 @@ comments: false
 
 ### 2019-2020
 - President : Anja Pahor
-- Vice president : Daniela Cassol
+- Vice President : Daniela Cassol
 - Secretary : Patricio Perez Henriquez
 - Treasurer : Sharma Yamijala
 - Social Chair : Morgan Halane/Aldo De La Mora Rodriguez
@@ -46,7 +56,7 @@ comments: false
 ### 2018-2019 Board
 
 - President : Maria Perez Urdiales
-- Vice president : Sumant Avasrala
+- Vice President : Sumant Avasrala
 - Secretary : Quentin Chesnais
 - Treasurer : Anja Pahor
 - Social Chair : Francesc Gomez Marco
@@ -56,7 +66,7 @@ comments: false
 ### 2017-2018 Board
 
 - President : Jacob Landis
-- Vice president : Peter Creasey
+- Vice President : Peter Creasey
 - Secretary : Honghong Wu
 - Treasurer : Julie Ripplinger
 - Social Chair : Francesc Gomez Marco
@@ -75,7 +85,7 @@ comments: false
 ### 2015-2016 Board
 
 - President : Anna Locke
-- Vice president : Vannia Gonzalez Macias
+- Vice President : Vannia Gonzalez Macias
 - Secretary : Inge Verstraeten
 - Treasurer : Mauricio Reynoso
 - Social Chair : Laetitia Poedivin
@@ -85,7 +95,7 @@ comments: false
 ### 2014-2015 Board
 
 - President : Carol Davis/Poonam Del/Lisa Pang
-- Vice president : Poonam Deol/Lisa Pang
+- Vice President : Poonam Deol/Lisa Pang
 - Secretary : Jorge Lozano Juste
 - Treasurer : Anna Locke
 - Social Chair : Laetitia Poedivin
