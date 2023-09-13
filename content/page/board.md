@@ -7,7 +7,7 @@ comments: false
 ## Current Board
 ### 2023-2024
 - President : Angela Chen
-- Vice President : Luis De Luna Valdez
+- Vice President : Luis de Luna Valdez
 - Secretary : Francisco J. Guevara Pantoja
 - Treasurer : Lina Aguirre Rojas
 - Social Chair : Proma Basu
@@ -21,7 +21,7 @@ comments: false
 - Vice President : Nicole Dennis
 - Secretary : David Fronk
 - Treasurer : Julio C. Pachon Maldonado
-- Social Chair : Luis De Luna Valdez
+- Social Chair : Luis de Luna Valdez
 - Communications Director : Rebeca Hernandez Gutierrez
 - Symposium Director : Lin Chen
 - Graphic/Web Designer: Juan S. Acero Triana

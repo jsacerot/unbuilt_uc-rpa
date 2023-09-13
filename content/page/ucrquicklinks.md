@@ -54,15 +54,6 @@ Find here useful UCR resources  for the postdoctoral community regarding employm
   caption="Violence/Stalking Resources" 
   class="no-photoswipe">}}
   
-  {{< figure src="img/resources/quicklinks/trophy.svg" 
-  link="https://academicpersonnel.ucr.edu/presidents-postdoctoral-fellowship-program"   caption="Fellowship Opportunities"
-  class="no-photoswipe" >}}
-  
-  {{< figure src="img/resources/quicklinks/creativity.svg" 
-  link="https://oasis.ucr.edu/"
-  caption="OASIS Innovation Hub"
-  class="no-photoswipe" >}}
-
   {{< figure src="img/resources/quicklinks/mortarboard.svg" 
   link="https://graduate.ucr.edu/gradsuccess/" 
   caption="GradSuccess"

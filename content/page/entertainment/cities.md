@@ -44,6 +44,11 @@ Find here a selected list of cities worth visiting that are one to seven hours d
   caption="Santa Barbara | 3 hours"
   class="no-photoswipe" >}}
   
+  {{< figure src="img/entertainment/cities/Solvang.webp" 
+  link="https://www.solvangusa.com/" 
+  caption="Solvang | 3 hours"
+  class="no-photoswipe" >}}
+  
   {{< figure src="img/entertainment/cities/Las_Vegas.jpg" 
   link="https://www.visitlasvegas.com/" 
   caption="Las Vegas | 4 hours"
