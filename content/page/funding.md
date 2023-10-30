@@ -12,3 +12,4 @@ Find here helpful resources to find funding and job opportunities for postdoctor
 * [Johns Hopkins\' Postdoctoral Funding Opportunities](https://research.jhu.edu/rdt/funding-opportunities/postdoctoral/)
 * [Johns Hopkins\' Early Career Funding Opportunities](https://research.jhu.edu/rdt/funding-opportunities/early-career/)
 * [arpa-e\' Job Opportunities](https://arpa-e.energy.gov/career/job-opportunities)
+* [Future PI Slack group](https://futurepislack.wordpress.com/)
