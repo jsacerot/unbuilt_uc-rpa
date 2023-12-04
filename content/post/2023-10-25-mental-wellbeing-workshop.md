@@ -2,7 +2,7 @@
 title:  Mental Well-being Workshop
 subtitle: Protecting Minds in the Stressful Academic Environment
 date: 2023-10-25
-tags: ["funding", "fellowship", "application", "climate resilience"]
+tags: ["workshop", "well-being", "academia"]
 ---
 
 The RPA is happy to announce a **workshop on Mental Well-being in Academia on November 9 at 2 p.m. (Student Success Center, Group meeting room 1)**, led by Dr. Evelyn Vázquez, an expert on higher education, mental health, and emancipatory approaches.
