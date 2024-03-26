@@ -132,7 +132,8 @@ googleAnalytics = "UA-141608372-1"
 [[menu.main]]
     parent = "events"
     name = "Symposium"
-    url = "page/symposium-general"
+    #url = "page/symposium-general"
+    url = "page/symposium-2024"
     weight = 3
 
 [[menu.main]]
