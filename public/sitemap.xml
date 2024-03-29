@@ -3,8 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://rpa.ucr.edu/</loc>
-    <lastmod>2023-11-30T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url><url>
+    <loc>https://rpa.ucr.edu/tags/early-career/</loc>
+    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rpa.ucr.edu/post/2024-03-28-symposium-registration/</loc>
+    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rpa.ucr.edu/post/</loc>
+    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rpa.ucr.edu/tags/registration/</loc>
+    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rpa.ucr.edu/tags/symposium/</loc>
+    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rpa.ucr.edu/tags/</loc>
+    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rpa.ucr.edu/tags/end-of-year/</loc>
     <lastmod>2023-11-30T00:00:00+00:00</lastmod>
@@ -16,12 +34,6 @@
     <lastmod>2023-11-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rpa.ucr.edu/tags/postdoc/</loc>
-    <lastmod>2023-11-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rpa.ucr.edu/post/</loc>
-    <lastmod>2023-11-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rpa.ucr.edu/tags/</loc>
     <lastmod>2023-11-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rpa.ucr.edu/tags/awards/</loc>
@@ -60,16 +72,7 @@
     <loc>https://rpa.ucr.edu/post/2023-09-12-oasis-fellowship-2023/</loc>
     <lastmod>2023-09-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rpa.ucr.edu/tags/early-career/</loc>
-    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rpa.ucr.edu/tags/registration/</loc>
-    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://rpa.ucr.edu/post/2023-05-01-symposium-registration2/</loc>
-    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rpa.ucr.edu/tags/symposium/</loc>
     <lastmod>2023-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rpa.ucr.edu/tags/fair/</loc>

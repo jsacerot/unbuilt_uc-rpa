@@ -11,6 +11,18 @@ The UC Riverside Postdoctoral Association (RPA) holds an annual Early Career Sci
 The **2024 STEM-Humanities ECSS** will take place on **Tuesday, June 18th, 2024**, at the Student Success Center (SSC; room 235) on the UCR Campus in Riverside, CA.
 
 
+### Why to Participate?
+___
+The ECSS is a great opportunity for professional development and networking within the UCR community. The goals of this event are for you to:
+
+- Communicate your research
+- Explore the diversity of research performed at UCR
+- Collaborate with other postdocs and graduate students
+- Invent a world-changing idea
+
+The symposium provides a unique opportunity to get more out of your UCR experience than spending days and nights in the lab, field, or office.
+
+
 ### Eligibility, Selection, and Awards
 ___
 The RPA invites the postdoc community (i.e., postdoctoral/visiting scholars and project scientists) and graduate students in **STEM and Humanities** to actively participate in the upcoming symposium:
@@ -26,19 +38,7 @@ The RPA invites the postdoc community (i.e., postdoctoral/visiting scholars and 
 
 ### Registration and Call for Abstracts
 ___
-Registration and abstract submission is **free and available until April 30th, 2024**, through **[this form](https://forms.gle/x33TNYmgEvUHTuyD9)**. Lunch will be provided for speakers and registered attendees, so pre-registration is mandatory.
-
-
-### Why to Participate?
-___
-The ECSS is a great opportunity for professional development and networking within the UCR community. The goals of this event are for you to:
-
-- Communicate your research
-- Explore the diversity of research performed at UCR
-- Collaborate with other postdocs and graduate students
-- Invent a world-changing idea
-
-The symposium provides a unique opportunity to get more out of your UCR experience than spending days and nights in the lab, field, or office.
+Abstract submission and registration is **free and available until April 30th and May 17th, 2024, respectively**, through **[this form](https://forms.gle/x33TNYmgEvUHTuyD9)**. Lunch will be provided for speakers and registered attendees, so pre-registration is mandatory.
 
 
 ### Timeline

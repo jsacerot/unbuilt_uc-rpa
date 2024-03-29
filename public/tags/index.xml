@@ -7,7 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>postdoc@ucr.edu (UCR PostdocAssoc)</managingEditor>
     <webMaster>postdoc@ucr.edu (UCR PostdocAssoc)</webMaster>
-    <lastBuildDate>Thu, 30 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://rpa.ucr.edu/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://rpa.ucr.edu/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>early career</title>
+      <link>https://rpa.ucr.edu/tags/early-career/</link>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
+      <author>postdoc@ucr.edu (UCR PostdocAssoc)</author>
+      <guid>https://rpa.ucr.edu/tags/early-career/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>registration</title>
+      <link>https://rpa.ucr.edu/tags/registration/</link>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
+      <author>postdoc@ucr.edu (UCR PostdocAssoc)</author>
+      <guid>https://rpa.ucr.edu/tags/registration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>symposium</title>
+      <link>https://rpa.ucr.edu/tags/symposium/</link>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
+      <author>postdoc@ucr.edu (UCR PostdocAssoc)</author>
+      <guid>https://rpa.ucr.edu/tags/symposium/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>end-of-year</title>
       <link>https://rpa.ucr.edu/tags/end-of-year/</link>
@@ -113,33 +140,6 @@
       <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
       <author>postdoc@ucr.edu (UCR PostdocAssoc)</author>
       <guid>https://rpa.ucr.edu/tags/funding/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>early career</title>
-      <link>https://rpa.ucr.edu/tags/early-career/</link>
-      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      <author>postdoc@ucr.edu (UCR PostdocAssoc)</author>
-      <guid>https://rpa.ucr.edu/tags/early-career/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>registration</title>
-      <link>https://rpa.ucr.edu/tags/registration/</link>
-      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      <author>postdoc@ucr.edu (UCR PostdocAssoc)</author>
-      <guid>https://rpa.ucr.edu/tags/registration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>symposium</title>
-      <link>https://rpa.ucr.edu/tags/symposium/</link>
-      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      <author>postdoc@ucr.edu (UCR PostdocAssoc)</author>
-      <guid>https://rpa.ucr.edu/tags/symposium/</guid>
       <description></description>
     </item>
     
