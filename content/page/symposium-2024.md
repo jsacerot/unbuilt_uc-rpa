@@ -27,7 +27,7 @@ The symposium provides a unique opportunity to get more out of your UCR experien
 ___
 The RPA invites the postdoc community (i.e., postdoctoral/visiting scholars and project scientists) and graduate students in **STEM and Humanities** to actively participate in the upcoming symposium:
 
-- 🗣️ **Oral presentations** are open to *postdoctoral/visiting scholars and project scientists*. The Evaluation Committee will select the eight most relevant abstracts for oral presentations. Each speaker will have 15 minutes to present and 5 minutes to address questions. The remaining abstracts will be considered in the selection for the poster session.
+- 🗣️ **Oral presentations** are primarily open to *postdoctoral/visiting scholars and project scientists*. Graduate students may also be considered for the oral presentation session depending on the number of applicants and the quality of abstracts. The Evaluation Committee will select the eight most relevant abstracts for oral presentations. Each speaker will have 15 minutes to present and 5 minutes to address questions. The remaining abstracts will be considered in the selection for the poster session.
 
 - 🪧 **Poster presentations** are open to *postdoctoral/visiting scholars, project scientists, and graduate students*. Posters will be presented as 3-minute flash talks and grouped by topic with time for questions afterwards. 
 
